@@ -1,0 +1,1 @@
+# Werewolves internal api

@@ -1,0 +1,4 @@
+{
+  "db_path": "database.db",
+  "schema_path": "schema.sql"
+}

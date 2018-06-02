@@ -1,4 +1,5 @@
 {
   "db_path": "database.db",
-  "schema_path": "schema.sql"
+  "schema_path": "schema.sql",
+  "port": 3000
 }

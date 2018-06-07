@@ -18,6 +18,7 @@
   "homepage": "https://github.com/werewolves-devs/internal-api#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "glob": "^7.1.2",
     "sqlite3": "^4.0.0"
   }
 }
